@@ -1,0 +1,10 @@
+^C:\USERS\CHUNC\DESKTOP\TOONCITY\BUILD\CMAKEFILES\4E2665379C1597E9B0B8CF9AA5228ABB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/chunc/Desktop/Tooncity -BC:/Users/chunc/Desktop/Tooncity/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/chunc/Desktop/Tooncity/build/RetroCityBuilder.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

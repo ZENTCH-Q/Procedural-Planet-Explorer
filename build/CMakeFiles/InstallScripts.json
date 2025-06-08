@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/chunc/Desktop/Tooncity/build/cmake_install.cmake",
+		"C:/Users/chunc/Desktop/Tooncity/build/external/glfw/cmake_install.cmake",
+		"C:/Users/chunc/Desktop/Tooncity/build/external/glfw/src/cmake_install.cmake",
+		"C:/Users/chunc/Desktop/Tooncity/build/external/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

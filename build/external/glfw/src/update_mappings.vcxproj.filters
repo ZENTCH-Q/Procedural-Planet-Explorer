@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chunc\Desktop\Tooncity\build\CMakeFiles\39f3dc09679694587488f4b0b888d483\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\chunc\Desktop\Tooncity\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\chunc\Desktop\Tooncity\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\chunc\Desktop\Tooncity\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\chunc\Desktop\Tooncity\build\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F2C564F2-47CC-3A65-B8EB-7EAED466879A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{75E894FA-CF2C-33A9-92B7-A75715AF27CF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
